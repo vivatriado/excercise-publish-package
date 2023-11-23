@@ -1,6 +1,21 @@
 {
-    "name": "@vivatriado/my-new-package",
+    "name": "@vivatriado/my-new-packag",
+    "version": "1.0.1",
+    "description": "New package",
+    "main": "index.js",
+    "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "ncc build main.js"
+    },
     "repository": {
     "type": "git",
-    "url": "https://github.com/vivatriado/exercise-publish-package.git"
+    "url": "git+https://github.com/vivatriado/exercise-publish-package.git"
+    },
+    "author": "githubtraining",
+    "license": "MIT",
+    "homepage": "https://github.com/vivatriado/exercise-publish-package#readme",
+    "dependencies": {
+    "@actions/core": "^1.4.0",
+    "@actions/github": "^5.0.0"
+    }
 }
