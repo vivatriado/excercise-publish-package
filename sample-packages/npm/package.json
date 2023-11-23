@@ -1,3 +1,6 @@
 {
-  "your": "json config here"
+    "name": "@vivatriado/my-new-package",
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/vivatriado/exercise-publish-package.git"
 }
