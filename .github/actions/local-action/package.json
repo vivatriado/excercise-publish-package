@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/githubtraining/exercise-publish-package.git"
+    "url": "git+https://github.com/vivatriado/exercise-publish-package.git"
   },
   "author": "githubtraining",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/githubtraining/exercise-publish-package/issues"
+    "url": "https://github.com/vivatriado/exercise-publish-package/issues"
   },
-  "homepage": "https://github.com/githubtraining/exercise-publish-package#readme",
+  "homepage": "https://github.com/vivatriado/exercise-publish-package#readme",
   "dependencies": {
     "@actions/core": "^1.4.0",
     "@actions/github": "^5.0.0"
